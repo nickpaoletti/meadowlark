@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/nickpaoletti/meadowlark/issues"
   },
-  "homepage": "https://github.com/nickpaoletti/meadowlark"
+  "homepage": "https://github.com/nickpaoletti/meadowlark",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express4-handlebars": "^0.2.0"
+  }
 }
