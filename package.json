@@ -1,0 +1,19 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "Meadowlark example project from \"Web Development with Node and Express\"",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickpaoletti/meadowlark.git"
+  },
+  "author": "Nick Paoletti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickpaoletti/meadowlark/issues"
+  },
+  "homepage": "https://github.com/nickpaoletti/meadowlark"
+}
